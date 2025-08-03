@@ -29,19 +29,6 @@ Common formats:
 - `.xlsx` — Excel files
 - `.json` — JSON structured data
 
----
-
-## 🧠 What You'll Learn
-
-By working through this repository, you'll gain practical experience in:
-
-- Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
-- Visualization using libraries like `matplotlib`, `seaborn`, and `pandas`
-- Statistical analysis and hypothesis testing
-- Working with databases and external data sources
-
----
 
 ## 🛠️ Getting Started
 
