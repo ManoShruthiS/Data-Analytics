@@ -1,7 +1,7 @@
 # 📊 Learn Data Analysis with Python — Apress Source Code Repository
 
 This repository accompanies the book **_Learn Data Analysis with Python_** by **A.J. Henley and Dave Wolf** (Apress).  
-It is intended for **self-practice and hands-on learning** of data analysis techniques using Python.
+It is designed for **self-practice and hands-on learning**, especially for **beginners** exploring data analysis with Python.
 
 ![Book Cover](https://github.com/user-attachments/assets/a01f779f-3d93-467d-bbfe-6d8a352ebdb0)
 
@@ -10,18 +10,24 @@ It is intended for **self-practice and hands-on learning** of data analysis tech
 ## 📘 About the Repository
 
 - This repository contains **source code examples** from the book.
-- All code has been **reviewed and corrected** based on errors found in the original version.
-  - ✅ Corrections are **clearly marked** within the code files for transparency.
-- The repository is structured to help learners **practice and understand** key concepts in Python-based data analysis.
+- All code has been **reviewed and corrected** to fix errors found in the original version.
+  - ✅ Corrections are **clearly marked** within the code files.
+  - 🛠️ Ideal for **beginners** who want a smoother learning experience.
+- The structure follows the book chapters to help you learn progressively.
 
 ---
 
-## 🗃️ Database Resources
+## 🗃️ Included Datasets
 
-The book references several datasets for analysis. These datasets are **not included** in the repository but are available for download as instructed in the book.
+The datasets referenced in the book have been **downloaded and included** in this repository for convenience.
 
-- 📥 Please refer to the book for **download links and setup instructions**.
-- Common formats include `.csv`, `.xlsx`, and `.json`.
+- 📂 You’ll find them in the `/datasets` folder.
+- 📌 Before running any code, make sure to **import the relevant dataset** as instructed in each script or notebook.
+
+Common formats:
+- `.csv` — Comma-separated values
+- `.xlsx` — Excel files
+- `.json` — JSON structured data
 
 ---
 
@@ -31,7 +37,7 @@ By working through this repository, you'll gain practical experience in:
 
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
-- Visualization using libraries like `matplotlib` and `seaborn`
+- Visualization using libraries like `matplotlib`, `seaborn`, and `pandas`
 - Statistical analysis and hypothesis testing
 - Working with databases and external data sources
 
